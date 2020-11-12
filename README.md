@@ -1,2 +1,2 @@
 # CApp-Proj
-Chat App project with React and Firebase
+Chat App project with React Redux and Firebase
