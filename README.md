@@ -1,4 +1,4 @@
-# CApp-Proj
+# CApp-Proj [Not Serious Project]
 Chat App project with React Redux and Firebase
 
 # Purposes
